@@ -1,3 +1,20 @@
 body{
     background: #BDBDBD;
 }
+.image {
+    background-image: url("../img/bg.jpg") ;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100vh;
+    height: 100vh;
+}
+.height {
+    height: 100vh;
+}
+.fsize {
+    font-size: 110px;
+}
+.fsize2 {
+    font-size: 50px;
+}
